@@ -1,0 +1,7 @@
+Title : segWhale
+Main character : Wooly
+Character species : Antarctic Blue Whale
+Mode of transport : Segway
+Location : Out of the water
+Support character : Manny
+Character species : Praying Mantis
