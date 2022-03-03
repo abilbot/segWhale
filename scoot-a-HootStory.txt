@@ -1,0 +1,7 @@
+Title : scoot-a-Hoot
+Main character : Harry
+Character species : Owl
+Mode of transport : Scooter
+Location : City
+Support character : Chloe
+Character species : Bat
